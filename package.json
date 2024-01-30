@@ -1,0 +1,27 @@
+{
+  "name": "mistosis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jenny",
+  "license": "ISC",
+  "dependencies": {
+    "@builder.io/mitosis": "^0.0.141",
+    "@builder.io/mitosis-cli": "^0.0.143",
+    "node-fetch": "^3.3.2",
+    "seedrandom": "^3.0.5"
+  },
+  "devDependencies": {
+    "@builder.io/eslint-plugin-mitosis": "^0.0.15",
+    "@types/node-fetch": "^2.6.11",
+    "@typescript-eslint/eslint-plugin": "^6.20.0",
+    "@typescript-eslint/parser": "^6.20.0",
+    "eslint": "^8.56.0",
+    "prettier": "^2.8.8",
+    "typescript": "^5.3.3",
+    "watch": "^1.0.2"
+  }
+}
